@@ -1,0 +1,95 @@
+    4  sudo apt update
+    5  sudo apt install aws cli
+    6  sudo apt install aws
+    7  sudo apt install awscli
+   17  sudo apt install awscli
+   19  sudo mv\mnt\C:\Users\user pc\Downloads\labsuser.pem \home\agasprosper\aws
+   20  sudo mv/mnt/C:/Users/user pc/Downloads/labsuser.pem /home/agasprosper/aws
+   22  sudo mv/mnt/C:/Users/user pc/Downloads/labsuser.pem /home/agasprosper/aws
+   24  sudo mv/mnt/C:/Users/'user pc'/Downloads/labsuser.pem /home/agasprosper/aws
+   25  sudo mv/mnt/c/Users/'user pc'/Downloads/labsuser.pem /home/agasprosper/aws
+   26  sudo mv /mnt/c/Users/'user pc'/Downloads/labsuser.pem /home/agasprosper/aws
+   32  sudo apt update
+   48  sudo apt update
+   54  sudo aws configure
+   63  sudo apt install awscli
+   65  sudo apt install awscli
+   70  sudo apt update
+   71  sudo apt install awscli
+  133  sudo chmod 400 labsuser.pem 
+  143  sudo awscli install
+  144  sudo awscli apt install
+  151  sudo apt install awscli
+  156  sudo chmod 400 labsuser.pem
+  165  sudo chmod 400 labsuser.pem 
+  169  sudo rm -r labsuser.pem
+  186  sudo ssh -i labsuser.pem ec2@54.185.151.45
+  187  sudo ssh -i labsuser.pem ec2-user@54.185.151.45
+  233  sudo apt update
+  238  sudo rm -r labsuser.pem
+  258  sudo rm -r labsuser.pem
+  281  sudo rm -r paper.pem 
+  283  sudo rm -r likee.pem
+  298  sudo apt update
+  300  sudo apt upgrade
+  303  sudo rm -r lost.pem
+  309  sudo chmod 400 labsuser.pem
+  314  sudo rm -r labsuser.pem
+  322  sudo chmod 400 labsuser.pem
+  325  sudo add useradd dave
+  327  sudo su
+  328  sudo apt update
+  332  sudo rm -r labsuser.pem
+  337  sudo chmod 400 labsuser.pem
+  339  sudo chmod 400 labsuser.pem
+  342  sudo chmod 400 labsuser.pem
+  354  sudo rm -r labsuser.pem
+  360  sudo chmod 400 labsuser.pem
+  362  sudo rm -r labsuser.pem
+  369  sudo chmod 400 bross.pem
+  373  sudo chmod 400 bross.pem
+  381  sudo rm -r bross.pem
+  386  sudo chmod 400 kcc.pem
+  396  sudo apt update
+  398  sudo apt update
+  400  sudo mkdir aws_otukpo
+  403  sudo echo "My first commit">README.md
+  404  sudo su
+  436  sudo serch openjdk
+  437  sudo apt serch openjdk
+  439  sudo apt install openjdk-11-jre-headless  # version 11.0.16+8-0ubuntu1~20.04
+  444  sudo apt-get install openjdk-11-jre-headless  # version 11.0.16+8-0ubuntu1~20.04
+  449  sudo apt serch intellij
+  451  sudo apt install docker.io  
+  484  sudo ../..
+  530  sudo adduser edwina
+  534  sudo addgroup DevOps
+  536  sudo groupadd DevOps
+  539  sudo usermod -g DevOps Dave
+  540  sudo usermod -g DevOps edwina
+  544  sudo delgroup edwina
+  545  sudo group
+  546  sudo usermod -G solution_archetect edwina
+  548  sudo groupadd solution_architech
+  549  sudo usermod -G solution_archetect edwina
+  550  sudo usermod -G solution_architect edwina
+  552  sudo usermod -aG solution_architech dave
+  553  sudo adduser edwina
+  554  sudo usermod -aG solution_architech edwina
+  556  sudo usermod -G DevOps edwina
+  559  sudo usermod -aG solution_architech edwina
+  564  sudo gpasswd -d solution_architech dave
+  565  sudo gpasswd -d dave solution_architech
+  570  sudo chown edwina : aws
+  571  sudo chown edwina aws
+  576  sudo chown edwina:solution_architech text.txt
+  581  sudo chmod g+x text.txt
+  583  sudo chmod u+x text.txt
+  585  sudo chmod o+x text.txt
+  586  sudo chmod o-x text.txt
+  587  sudo chmod o=x text.txt
+  589  sudo chmod o=x text.txt
+  613  history | grep sudo
+  615  history | grep "cat" "sudo" "txt" "py"
+  622  history | grep sudo
+  623  history | grep sudo > sudo-commands.txt
